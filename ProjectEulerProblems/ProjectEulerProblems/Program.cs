@@ -6,7 +6,7 @@ namespace ProjectEulerProblems
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Problem1.MultipliesOf3And5(1000));
+            Console.WriteLine(Problem2.SumOfEvenFibonacciNumbers(4000000));
             Console.ReadLine();
         }
     }
